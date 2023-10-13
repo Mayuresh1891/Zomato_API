@@ -1,0 +1,37 @@
+[
+    {
+    "city":"mumbai",
+"location":"central Mumbai",
+"pinCode":234567
+},
+
+{
+    "city":"mumbai",
+"location":"east Mumbai",
+"pinCode":234567
+},
+
+{
+    "city":"pune",
+"location":"swargate",
+"pinCode":234568
+},
+
+{
+    "city":"pune",
+"location":"karaj",
+"pinCode":234568
+},
+
+{
+    "city":"pune",
+"location":"pune station",
+"pinCode":234568
+},
+
+{
+    "city":"surat",
+"location":"gandhi nagar",
+"pinCode":234569
+}
+]

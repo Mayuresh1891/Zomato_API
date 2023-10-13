@@ -1,0 +1,16 @@
+[{
+    "city":"mumbai",
+"location":"central mumbai",
+"pin code":234567
+},
+{
+    "city":"pune",
+"location":"swargate",
+"pin code":234568
+},
+{
+    "city":"surat",
+"location":"gandhi nagar",
+"pin code":234569
+}
+]
